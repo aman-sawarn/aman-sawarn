@@ -4,7 +4,7 @@
          width="45" />, Hi, I'm Aman Sawarn</h1>
 <h5 align="center">
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-sawarn&label=Profile%20views&color=0e75b6&style=flat" alt="aman-sawarn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-sawarn&label=Profile%20views&color=0e75b6&style=flat&extra=1000" alt="aman-sawarn" /> </p>
 <p>
 <a align= "center" href="https://github.com/aman-sawarn">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-sawarn&theme=radical">
